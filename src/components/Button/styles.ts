@@ -10,7 +10,6 @@ const shake = keyframes({
 export const styles = {
     Wrapper: styled('button', {
         display: 'flex',
-        outline: 'none',
         gap: '1rem',
         borderRadius: '12rem',
         border: 'none',
